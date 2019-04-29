@@ -19,7 +19,7 @@ main {
   flex-direction: column;*/
   flex-flow: row wrap;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
 }
 
 footer {
