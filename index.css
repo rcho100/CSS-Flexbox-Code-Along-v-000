@@ -18,8 +18,8 @@ main {
   /*flex-wrap: wrap;
   flex-direction: column;*/
   flex-flow: row wrap;
-  justify-content: space-between;
-  align-items: baseline;
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
