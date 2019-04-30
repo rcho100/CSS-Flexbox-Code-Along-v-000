@@ -48,7 +48,11 @@ footer {
 }
 
 .setWidth {
-  /*flex-basis: 100px;
-  flex-grow: 1;*/
+  /*
+  flex-basis: 100px;
+  flex-grow: 1;
+  flex is the shorthand for grow shrink and basis properties
+  flex is recommended because it automatically handles some of the settings if they aren't provided, so it is less prone to conflicting behavior.
+  */
   flex: auto;
 }
