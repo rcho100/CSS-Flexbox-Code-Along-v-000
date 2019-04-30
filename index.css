@@ -24,7 +24,6 @@ main {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  flex: 100px;
 }
 
 footer {
