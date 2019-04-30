@@ -8,6 +8,7 @@ header {
   background-color: #92C9D5;
   height: 80px;
   width: 100%;
+  flex-shrink: 0;
 }
 
 main {
