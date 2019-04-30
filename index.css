@@ -31,7 +31,7 @@ footer {
   height: 80px;
   width: 100%;
   /*flex-shrink: 3;*/
-  flex: initial;
+  flex: none;
 }
 
 .flex-container {
