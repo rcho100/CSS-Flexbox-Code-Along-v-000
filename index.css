@@ -18,6 +18,7 @@ main {
   /*
   flex-direction: column;
   flex-wrap: wrap;
+  The short hand for the above 2 lines is flex-flow
   */
   flex-flow: row wrap;
   justify-content: center;
